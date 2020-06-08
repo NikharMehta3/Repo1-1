@@ -7,6 +7,6 @@ jobs:
   steps:
   - uses: actions/checkout@v1
   - name: Build Code
-    run: make
+    run: make Hello.java
   - name: run
     run: ./Hello
