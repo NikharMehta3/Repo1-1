@@ -1,5 +1,3 @@
-
-
 public class MyProj {
 
 	public static void main(String[] args) {
