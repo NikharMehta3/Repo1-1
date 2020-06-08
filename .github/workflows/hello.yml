@@ -8,5 +8,7 @@ jobs:
   - uses: actions/checkout@v1
   - name: Build Code
     run: make Hello.java
+  - name: Enter
+    run: /Repo1-1/
   - name: run
     run: ./Hello
