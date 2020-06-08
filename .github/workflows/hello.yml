@@ -9,4 +9,4 @@ jobs:
   - name: Build Code
     run: make Hello.java
   - name: run
-    run: sudo ./Hello.java
+    run: ./Hello
